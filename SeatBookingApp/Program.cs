@@ -16,8 +16,7 @@ namespace SeatBookingApp
             bool isValid = false;
             bool isStaff = false;
             int userErrors = 0;
-
-            WriteLine("IFN501 Assignment 2 - Deliverable 2. Nelli Holopainen n10309152");
+            
             WriteLine("---------------------------------------------------------------");
 
             // 1. Asking the user type
